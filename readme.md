@@ -1,7 +1,7 @@
 Copyright (c) 2023 
 May not be redistributed without permission.
 
-You will know it You go to a pub, order yourself and your friends a whiskey... And get one or more bottles. WTF...
+You will know it: you go to a pub, order yourself and your friends a whiskey... And get one or more bottles. WTF...
 
 With this little scrip snippet you can split "big" items into several small ones.
 Then a bottle becomes 7 glasses filled with delicious whiskey.
